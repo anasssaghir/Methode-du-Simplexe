@@ -1,1 +1,2 @@
-"# M-thode-du-Simplexe" 
+"# Méthode-du-Simplexe" 
+Lien demo : https://youtu.be/VDnmOm71Yzs
